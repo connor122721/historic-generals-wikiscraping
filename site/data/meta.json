@@ -1,36 +1,36 @@
 {
- "updated": "2026-10-26 12:55 UTC",
+ "updated": "2026-11-02 15:45 UTC",
  "source": "English Wikipedia battle infoboxes",
- "battles": 12961,
- "generals": 19231,
+ "battles": 12976,
+ "generals": 19260,
  "with_strengths": 6642,
  "model": {
-  "b": 0.1237,
+  "b": 0.1232,
   "se": 0.0184,
   "n": 6642,
   "calibration": [
    {
     "ratio": "1–1.25×",
-    "n": 1250,
+    "n": 1253,
     "observed": 0.504,
     "model": 0.503
    },
    {
     "ratio": "1.25–1.5×",
     "n": 751,
-    "observed": 0.539,
+    "observed": 0.538,
     "model": 0.51
    },
    {
     "ratio": "1.5–2×",
-    "n": 1050,
-    "observed": 0.55,
+    "n": 1051,
+    "observed": 0.551,
     "model": 0.517
    },
    {
     "ratio": "2–3×",
-    "n": 1214,
-    "observed": 0.512,
+    "n": 1213,
+    "observed": 0.513,
     "model": 0.528
    },
    {
@@ -41,9 +41,9 @@
    },
    {
     "ratio": "5–20×",
-    "n": 1545,
-    "observed": 0.574,
-    "model": 0.571
+    "n": 1542,
+    "observed": 0.573,
+    "model": 0.57
    }
   ]
  },
@@ -65,7 +65,7 @@
   },
   {
    "name": "Khalid ibn al-Walid",
-   "war": 15.83
+   "war": 15.33
   },
   {
    "name": "Karl Dönitz",
