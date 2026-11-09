@@ -1,43 +1,43 @@
 {
- "updated": "2026-11-02 15:45 UTC",
+ "updated": "2026-11-09 16:10 UTC",
  "source": "English Wikipedia battle infoboxes",
- "battles": 12976,
- "generals": 19260,
- "with_strengths": 6642,
+ "battles": 12991,
+ "generals": 19311,
+ "with_strengths": 6651,
  "model": {
-  "b": 0.1232,
+  "b": 0.1218,
   "se": 0.0184,
-  "n": 6642,
+  "n": 6651,
   "calibration": [
    {
     "ratio": "1–1.25×",
-    "n": 1253,
-    "observed": 0.504,
+    "n": 1255,
+    "observed": 0.505,
     "model": 0.503
    },
    {
     "ratio": "1.25–1.5×",
-    "n": 751,
-    "observed": 0.538,
+    "n": 753,
+    "observed": 0.537,
     "model": 0.51
    },
    {
     "ratio": "1.5–2×",
-    "n": 1051,
+    "n": 1052,
     "observed": 0.551,
     "model": 0.517
    },
    {
     "ratio": "2–3×",
     "n": 1213,
-    "observed": 0.513,
-    "model": 0.528
+    "observed": 0.512,
+    "model": 0.527
    },
    {
     "ratio": "3–5×",
-    "n": 1010,
-    "observed": 0.541,
-    "model": 0.542
+    "n": 1013,
+    "observed": 0.539,
+    "model": 0.541
    },
    {
     "ratio": "5–20×",
@@ -61,7 +61,7 @@
   },
   {
    "name": "Arthur Wellesley, 1st Duke of Wellington",
-   "war": 16.43
+   "war": 16.44
   },
   {
    "name": "Khalid ibn al-Walid",
@@ -85,15 +85,15 @@
   },
   {
    "name": "Mehmed II",
-   "war": 12.56
+   "war": 12.6
   },
   {
    "name": "Edmund Allenby, 1st Viscount Allenby",
    "war": 12.38
   },
   {
-   "name": "Suleiman the Magnificent",
-   "war": 12.0
+   "name": "Ivan Sirko",
+   "war": 12.27
   }
  ]
 }
